@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <iostream>
 
+//Hallo Welt!
+
 typedef struct liste {
 	int element;
 	liste* next;
